@@ -2,11 +2,13 @@
 
 ## 📸 App Preview
 
-![Screenshot 1](photo1.png)
-![Screenshot 2](photo2.png)
-![Screenshot 3](photo3.png)
-![Screenshot 4](photo4.png)
-![Screenshot 5](photo5.png)
+![Screenshot 1](<Screenshot 2026-09-27 112521.png>)
+![Screenshot 2](<Screenshot 2026-09-27 112557.png>)
+![Screenshot 3](<Screenshot 2026-09-27 112616.png>)
+![Screenshot 4](<Screenshot 2026-09-27 112639.png>)
+![Screenshot 5](<Screenshot 2026-09-27 112656.png>)
+![Screenshot 6](<Screenshot 2026-09-27 112715.png>)
+![Screenshot 7](<Screenshot 2026-09-27 112815.png>)
 
 **EZ Solar App** is a streamlined, interactive web application designed to help users quickly estimate, calculate, and visualize their solar energy needs. Whether you are a homeowner curious about solar potential or a professional doing quick field calculations, EZ Solar provides an intuitive interface to get the numbers you need.
 
